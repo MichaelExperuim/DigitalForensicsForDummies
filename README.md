@@ -25,3 +25,5 @@ The code does the following:
   b. Foremost is used for file recovery. The tool recovers any deleted files that it can and puts them in a separate folder. I am not entirely sure its effectiveness, but in a test, I was able to recover images from approximately 2 years ago from a wiped flash drive.
   c. Steghide, traverses the outputs from foremost and bulk-extractor for any images and attempts to extract any hidden data. Currently, does not work on PNGs and only extracts other images.
 6. Outputs the results and a summary file in their respective directories, with pictures given their own separate folder. 
+
+NOTE: The team who developed this considers this project finished and will not be working on it in the foreseeable future. Certain features do not work, specifically hashing and memory analysis. DO NOT USE THIS IN A PRODUCTION ENVIROMENT.
