@@ -26,4 +26,4 @@ The code does the following:
   c. Steghide, traverses the outputs from foremost and bulk-extractor for any images and attempts to extract any hidden data. Currently, does not work on PNGs and only extracts other images.
 6. Outputs the results and a summary file in their respective directories, with pictures given their own separate folder. 
 
-NOTE: The team who developed this considers this project finished and will not be working on it in the foreseeable future. Certain features do not work, specifically hashing and memory analysis. DO NOT USE THIS IN A PRODUCTION ENVIROMENT.
+NOTE: The team who developed this considers this project finished and will not be working on it in the foreseeable future. Certain features do not work, specifically hashing and memory analysis. DO NOT USE THIS IN A PRODUCTION ENVIROMENT. DO NOT USE THIS IN ANY OFFICAL FORENSIC INVESTIGATIONS OR COURT CASES, THIS IS NOT A CERTIFIED DIGITAL FORENSICS TOOL. 
