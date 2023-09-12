@@ -7,6 +7,8 @@ This script will be used to simplify and automate some of the processes of a sta
 
 This code is a part of a research and school project, developed for a forensics class at Embry-Riddle Aeronautical University, Prescott campus. Reference the following word doc for the full research paper. 
 
+The following description is a summary of what the code does. If you want a more in-depth explanation, reference the full research paper towards the bottom. Technical details about the code are discussed there, for those interested.
+
 The code does the following:
 
 1. Downloads the necessary tools and dependencies to run this script
